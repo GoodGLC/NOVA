@@ -193,6 +193,8 @@ proxies:
   - {name: "سرویس رایگان نوا @irnova_proxy 104.17.181.99:443 [VLESS]", server: 104.17.181.99, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.dpdns.org, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.dpdns.org}}}
   - {name: "سرویس رایگان نوا @irnova_proxy 104.21.125.249:443 [VLESS]", server: 104.21.125.249, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.dpdns.org, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.dpdns.org}}}
   - {name: "سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]", server: 104.24.87.220, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.dpdns.org, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 162.159.94.207:443 [VLESS]", server: 162.159.94.207, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.dpdns.org, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.dpdns.org}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 162.159.201.225:443 [VLESS]", server: 162.159.201.225, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.dpdns.org, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.dpdns.org}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -353,6 +355,8 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.17.181.99:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.21.125.249:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.94.207:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.201.225:443 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -509,6 +513,8 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.17.181.99:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.21.125.249:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.94.207:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.201.225:443 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -664,6 +670,8 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.17.181.99:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.21.125.249:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.94.207:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.201.225:443 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -820,6 +828,8 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.17.181.99:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.21.125.249:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.94.207:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.201.225:443 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -995,6 +1005,8 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.17.181.99:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.21.125.249:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.94.207:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.201.225:443 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -1156,6 +1168,8 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.17.181.99:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.21.125.249:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.94.207:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.201.225:443 [VLESS]
 rules:
 # IRANIAN DIRECT RULES
   - DOMAIN-SUFFIX,ir,DIRECT
