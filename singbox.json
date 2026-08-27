@@ -3531,6 +3531,52 @@
       }
     },
     {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 162.159.94.207:443 [VLESS]",
+      "server": "162.159.94.207",
+      "server_port": 443,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.meaw.dpdns.org"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.meaw.dpdns.org",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 162.159.201.225:443 [VLESS]",
+      "server": "162.159.201.225",
+      "server_port": 443,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.meaw.dpdns.org"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.meaw.dpdns.org",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
       "type": "selector",
       "tag": "🚀 节点选择",
       "outbounds": [
@@ -3688,6 +3734,8 @@
         "سرویس رایگان نوا @irnova_proxy 104.17.181.99:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.21.125.249:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.94.207:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.201.225:443 [VLESS]",
         "📢 https://t.me/irnova_proxy",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -3845,7 +3893,9 @@
         "سرویس رایگان نوا @irnova_proxy 104.18.64.160:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.181.99:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.21.125.249:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.94.207:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.201.225:443 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -4004,7 +4054,9 @@
         "سرویس رایگان نوا @irnova_proxy 104.18.64.160:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.181.99:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.21.125.249:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.94.207:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.201.225:443 [VLESS]"
       ]
     },
     {
@@ -4160,7 +4212,9 @@
         "سرویس رایگان نوا @irnova_proxy 104.18.64.160:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.181.99:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.21.125.249:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.94.207:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.201.225:443 [VLESS]"
       ]
     },
     {
@@ -4343,6 +4397,8 @@
         "سرویس رایگان نوا @irnova_proxy 104.17.181.99:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.21.125.249:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.94.207:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.201.225:443 [VLESS]",
         "📢 https://t.me/irnova_proxy",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -4507,6 +4563,8 @@
         "سرویس رایگان نوا @irnova_proxy 104.17.181.99:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.21.125.249:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.94.207:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.201.225:443 [VLESS]",
         "📢 https://t.me/irnova_proxy",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -4666,6 +4724,8 @@
         "سرویس رایگان نوا @irnova_proxy 104.17.181.99:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.21.125.249:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.24.87.220:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.94.207:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.201.225:443 [VLESS]",
         "📢 https://t.me/irnova_proxy",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
