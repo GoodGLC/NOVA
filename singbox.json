@@ -90,12 +90,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -113,12 +113,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -136,12 +136,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -159,12 +159,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -182,12 +182,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -205,12 +205,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -228,12 +228,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -251,12 +251,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -274,12 +274,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -297,12 +297,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -320,12 +320,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -343,12 +343,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -366,12 +366,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -389,12 +389,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -412,12 +412,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -435,12 +435,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -458,12 +458,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -481,12 +481,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -504,12 +504,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -527,12 +527,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -550,12 +550,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -573,12 +573,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -596,12 +596,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -619,12 +619,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -642,12 +642,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -665,12 +665,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -688,12 +688,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -711,12 +711,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -734,12 +734,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -757,12 +757,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -780,12 +780,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -803,12 +803,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -826,12 +826,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -849,12 +849,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -872,12 +872,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -895,12 +895,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -918,12 +918,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -941,12 +941,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -964,12 +964,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -987,12 +987,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1010,12 +1010,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1033,12 +1033,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1056,12 +1056,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1079,12 +1079,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1102,12 +1102,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1125,12 +1125,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1148,12 +1148,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1171,12 +1171,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1194,12 +1194,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1217,12 +1217,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1240,12 +1240,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1263,12 +1263,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1286,12 +1286,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1309,12 +1309,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1332,12 +1332,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1355,12 +1355,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1378,12 +1378,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1401,12 +1401,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1424,12 +1424,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1447,12 +1447,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1470,12 +1470,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1493,12 +1493,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1516,12 +1516,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1539,12 +1539,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1562,12 +1562,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1585,12 +1585,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1608,12 +1608,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1631,12 +1631,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1654,12 +1654,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1677,12 +1677,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1700,12 +1700,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1723,12 +1723,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1746,12 +1746,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1769,12 +1769,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1792,12 +1792,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1815,12 +1815,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1838,12 +1838,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1861,12 +1861,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1884,12 +1884,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1907,12 +1907,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1930,12 +1930,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1953,12 +1953,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1976,12 +1976,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -1999,12 +1999,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2022,12 +2022,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2045,12 +2045,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2068,12 +2068,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2091,12 +2091,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2114,12 +2114,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2137,12 +2137,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2160,12 +2160,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2183,12 +2183,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2206,12 +2206,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2229,12 +2229,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2252,12 +2252,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2275,12 +2275,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2298,12 +2298,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2321,12 +2321,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2344,12 +2344,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2367,12 +2367,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2390,12 +2390,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2413,12 +2413,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2436,12 +2436,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2459,12 +2459,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2482,12 +2482,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2505,12 +2505,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2528,12 +2528,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2551,12 +2551,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2574,12 +2574,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2597,12 +2597,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2620,12 +2620,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2643,12 +2643,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2666,12 +2666,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2689,12 +2689,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2712,12 +2712,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2735,12 +2735,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2758,12 +2758,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2781,12 +2781,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2804,12 +2804,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2827,12 +2827,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2850,12 +2850,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2873,12 +2873,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2896,12 +2896,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2919,12 +2919,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2942,12 +2942,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2965,12 +2965,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -2988,12 +2988,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3011,12 +3011,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3034,12 +3034,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3057,12 +3057,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3080,12 +3080,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3103,12 +3103,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3126,12 +3126,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3149,12 +3149,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3172,12 +3172,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3195,12 +3195,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3218,12 +3218,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3241,12 +3241,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3264,12 +3264,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3287,12 +3287,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3310,12 +3310,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3333,12 +3333,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3356,12 +3356,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3379,12 +3379,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3402,12 +3402,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3425,12 +3425,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3448,12 +3448,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3471,12 +3471,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3494,12 +3494,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3517,12 +3517,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3540,12 +3540,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3563,12 +3563,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3586,12 +3586,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3609,12 +3609,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3632,12 +3632,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3655,12 +3655,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3678,12 +3678,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3701,12 +3701,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3724,12 +3724,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3747,12 +3747,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3770,12 +3770,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3793,12 +3793,242 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "me.meaw.dpdns.org"
+          "Host": "me.meaw.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.dpdns.org",
+        "server_name": "me.meaw.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 162.159.226.162:443 [VLESS]",
+      "server": "162.159.226.162",
+      "server_port": 443,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.meaw.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.meaw.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 172.64.97.116:443 [VLESS]",
+      "server": "172.64.97.116",
+      "server_port": 443,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.meaw.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.meaw.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.18.49.100:443 [VLESS]",
+      "server": "104.18.49.100",
+      "server_port": 443,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.meaw.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.meaw.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 172.64.76.18:443 [VLESS]",
+      "server": "172.64.76.18",
+      "server_port": 443,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.meaw.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.meaw.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 162.159.6.209:443 [VLESS]",
+      "server": "162.159.6.209",
+      "server_port": 443,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.meaw.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.meaw.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 172.64.43.105:443 [VLESS]",
+      "server": "172.64.43.105",
+      "server_port": 443,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.meaw.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.meaw.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.18.48.221:443 [VLESS]",
+      "server": "104.18.48.221",
+      "server_port": 443,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.meaw.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.meaw.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 172.64.184.109:443 [VLESS]",
+      "server": "172.64.184.109",
+      "server_port": 443,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.meaw.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.meaw.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 162.159.158.121:443 [VLESS]",
+      "server": "162.159.158.121",
+      "server_port": 443,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.meaw.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.meaw.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 162.159.205.119:443 [VLESS]",
+      "server": "162.159.205.119",
+      "server_port": 443,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "me.meaw.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "me.meaw.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -3976,6 +4206,16 @@
         "سرویس رایگان نوا @irnova 172.64.67.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.20.242.160:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.27.247.0:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.226.162:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.97.116:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.49.100:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.76.18:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.6.209:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.43.105:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.48.221:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.184.109:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.158.121:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.205.119:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -4145,7 +4385,17 @@
         "سرویس رایگان نوا @irnova 141.101.98.190:443 [VLESS]",
         "سرویس رایگان نوا @irnova 172.64.67.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.20.242.160:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.27.247.0:443 [VLESS]"
+        "سرویس رایگان نوا @irnova 104.27.247.0:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.226.162:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.97.116:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.49.100:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.76.18:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.6.209:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.43.105:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.48.221:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.184.109:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.158.121:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.205.119:443 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -4316,7 +4566,17 @@
         "سرویس رایگان نوا @irnova 141.101.98.190:443 [VLESS]",
         "سرویس رایگان نوا @irnova 172.64.67.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.20.242.160:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.27.247.0:443 [VLESS]"
+        "سرویس رایگان نوا @irnova 104.27.247.0:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.226.162:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.97.116:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.49.100:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.76.18:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.6.209:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.43.105:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.48.221:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.184.109:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.158.121:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.205.119:443 [VLESS]"
       ]
     },
     {
@@ -4484,7 +4744,17 @@
         "سرویس رایگان نوا @irnova 141.101.98.190:443 [VLESS]",
         "سرویس رایگان نوا @irnova 172.64.67.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.20.242.160:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.27.247.0:443 [VLESS]"
+        "سرویس رایگان نوا @irnova 104.27.247.0:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.226.162:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.97.116:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.49.100:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.76.18:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.6.209:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.43.105:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.48.221:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.184.109:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.158.121:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.205.119:443 [VLESS]"
       ]
     },
     {
@@ -4679,6 +4949,16 @@
         "سرویس رایگان نوا @irnova 172.64.67.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.20.242.160:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.27.247.0:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.226.162:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.97.116:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.49.100:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.76.18:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.6.209:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.43.105:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.48.221:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.184.109:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.158.121:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.205.119:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -4855,6 +5135,16 @@
         "سرویس رایگان نوا @irnova 172.64.67.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.20.242.160:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.27.247.0:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.226.162:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.97.116:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.49.100:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.76.18:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.6.209:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.43.105:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.48.221:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.184.109:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.158.121:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.205.119:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -5026,6 +5316,16 @@
         "سرویس رایگان نوا @irnova 172.64.67.4:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.20.242.160:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.27.247.0:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.226.162:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.97.116:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.49.100:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.76.18:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.6.209:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.43.105:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.18.48.221:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.184.109:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.158.121:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.205.119:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -14480,7 +14780,6 @@
           "194.36.55.0/24",
           "194.39.112.0/21",
           "194.53.53.0/24",
-          "194.59.5.0/24",
           "194.113.223.0/24",
           "194.152.44.0/24",
           "194.169.194.0/24",
@@ -14575,6 +14874,7 @@
           "23.227.42.0/23",
           "23.227.48.0/23",
           "23.227.60.0/24",
+          "31.56.192.0/24",
           "31.185.108.0/24",
           "37.153.170.0/23",
           "38.96.28.0/23",
@@ -14582,9 +14882,13 @@
           "43.229.39.0/24",
           "43.230.144.0/24",
           "45.12.44.0/23",
+          "45.43.147.0/24",
+          "45.43.158.0/24",
           "45.45.255.0/24",
           "45.128.76.0/24",
+          "45.130.106.0/24",
           "45.130.125.0/24",
+          "45.134.227.0/24",
           "45.146.130.0/24",
           "45.148.100.0/24",
           "45.157.17.0/24",
@@ -14611,7 +14915,6 @@
           "64.8.255.0/24",
           "64.40.138.0/24",
           "64.40.140.0/24",
-          "64.239.31.0/24",
           "65.110.63.0/24",
           "66.71.220.0/24",
           "66.80.5.0/24",
@@ -14624,6 +14927,7 @@
           "69.87.126.0/24",
           "69.90.210.0/24",
           "72.11.158.0/24",
+          "72.22.87.0/24",
           "74.1.17.0/24",
           "77.73.113.0/24",
           "78.128.122.0/24",
@@ -14635,6 +14939,7 @@
           "82.39.253.0/24",
           "82.47.124.0/23",
           "82.139.216.0/23",
+          "82.152.216.0/24",
           "87.232.75.0/24",
           "87.232.80.0/24",
           "88.216.69.0/24",
@@ -14667,6 +14972,7 @@
           "103.54.128.0/23",
           "103.79.228.0/23",
           "103.81.228.0/24",
+          "103.98.194.0/24",
           "103.130.111.0/24",
           "103.135.208.0/22",
           "103.186.74.0/24",
@@ -14709,7 +15015,7 @@
           "104.22.112.0/21",
           "104.22.120.0/24",
           "104.22.123.0/24",
-          "104.22.127.0/24",
+          "104.22.124.0/22",
           "104.22.128.0/23",
           "104.22.131.0/24",
           "104.22.132.0/23",
@@ -14728,17 +15034,17 @@
           "104.22.172.0/23",
           "104.22.174.0/24",
           "104.22.176.0/21",
-          "104.22.184.0/22",
+          "104.22.186.0/23",
           "104.22.190.0/23",
           "104.22.192.0/22",
-          "104.22.196.0/23",
-          "104.22.198.0/24",
+          "104.22.196.0/24",
           "104.22.204.0/23",
           "104.22.210.0/23",
           "104.22.216.0/23",
           "104.22.219.0/24",
           "104.22.220.0/24",
           "104.22.226.0/24",
+          "104.22.232.0/24",
           "104.23.160.0/20",
           "104.23.176.0/23",
           "104.23.178.0/24",
@@ -14749,7 +15055,7 @@
           "104.23.201.0/24",
           "104.23.202.0/23",
           "104.23.204.0/24",
-          "104.23.206.0/23",
+          "104.23.206.0/24",
           "104.23.208.0/20",
           "104.23.224.0/20",
           "104.23.240.0/21",
@@ -14778,9 +15084,15 @@
           "104.31.16.0/22",
           "104.31.20.0/24",
           "104.156.176.0/23",
+          "104.233.58.0/24",
           "104.234.133.0/24",
+          "104.239.8.0/24",
+          "104.239.29.0/24",
+          "104.239.58.0/23",
+          "104.239.89.0/24",
           "104.243.192.0/24",
           "104.244.236.0/23",
+          "104.249.11.0/24",
           "104.249.18.0/24",
           "104.249.43.0/24",
           "108.162.192.0/20",
@@ -14850,6 +15162,7 @@
           "151.246.216.0/23",
           "152.114.0.0/17",
           "152.114.128.0/18",
+          "153.79.172.0/23",
           "153.79.174.0/24",
           "154.46.20.0/24",
           "154.81.141.0/24",
@@ -14912,7 +15225,6 @@
           "162.158.144.0/23",
           "162.158.146.0/24",
           "162.158.148.0/23",
-          "162.158.150.0/24",
           "162.158.152.0/21",
           "162.158.160.0/20",
           "162.158.176.0/24",
@@ -14964,6 +15276,7 @@
           "162.251.82.0/24",
           "162.251.205.0/24",
           "165.101.60.0/23",
+          "166.0.10.0/24",
           "166.88.240.0/24",
           "167.1.137.0/24",
           "167.74.92.0/22",
@@ -15101,7 +15414,8 @@
           "172.69.19.0/24",
           "172.69.21.0/24",
           "172.69.22.0/23",
-          "172.69.32.0/22",
+          "172.69.32.0/23",
+          "172.69.34.0/24",
           "172.69.38.0/23",
           "172.69.40.0/24",
           "172.69.42.0/23",
@@ -15122,7 +15436,8 @@
           "172.69.90.0/23",
           "172.69.93.0/24",
           "172.69.94.0/23",
-          "172.69.96.0/22",
+          "172.69.96.0/23",
+          "172.69.99.0/24",
           "172.69.101.0/24",
           "172.69.102.0/23",
           "172.69.104.0/24",
@@ -15175,8 +15490,7 @@
           "172.69.241.0/24",
           "172.69.245.0/24",
           "172.69.246.0/23",
-          "172.69.248.0/23",
-          "172.69.251.0/24",
+          "172.69.248.0/22",
           "172.69.253.0/24",
           "172.69.255.0/24",
           "172.70.32.0/20",
@@ -15197,7 +15511,6 @@
           "172.70.128.0/20",
           "172.70.144.0/22",
           "172.70.149.0/24",
-          "172.70.152.0/24",
           "172.70.154.0/23",
           "172.70.156.0/23",
           "172.70.159.0/24",
@@ -15213,7 +15526,7 @@
           "172.70.196.0/23",
           "172.70.199.0/24",
           "172.70.201.0/24",
-          "172.70.202.0/24",
+          "172.70.202.0/23",
           "172.70.204.0/22",
           "172.70.208.0/24",
           "172.70.212.0/22",
@@ -15271,7 +15584,7 @@
           "172.71.232.0/21",
           "172.71.240.0/23",
           "172.71.242.0/24",
-          "172.71.244.0/22",
+          "172.71.244.0/24",
           "172.71.248.0/24",
           "172.71.252.0/22",
           "173.0.92.0/24",
@@ -15304,8 +15617,13 @@
           "185.156.19.0/24",
           "185.158.133.0/24",
           "185.171.229.0/24",
+          "185.176.159.0/24",
           "185.178.196.0/22",
+          "185.189.26.0/24",
+          "185.198.24.0/23",
+          "185.220.20.0/24",
           "185.229.206.0/24",
+          "185.245.253.0/24",
           "188.42.98.0/24",
           "188.95.12.0/24",
           "188.114.96.0/22",
@@ -15407,6 +15725,7 @@
           "212.6.39.0/24",
           "212.104.128.0/24",
           "212.114.54.0/24",
+          "212.189.70.0/23",
           "216.19.107.0/24",
           "216.74.106.0/24",
           "216.97.235.0/24",
