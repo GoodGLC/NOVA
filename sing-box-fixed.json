@@ -38,8 +38,7 @@
           "category-ads-all"
         ],
         "action": "predefined",
-        "rcode": "NOERROR",
-        "disable_cache": true
+        "rcode": "NOERROR"
       },
       {
         "geosite": [
