@@ -215,6 +215,67 @@ proxies:
   - {name: "سرویس رایگان نوا @irnova 172.64.184.109:443 [VLESS]", server: 172.64.184.109, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
   - {name: "سرویس رایگان نوا @irnova 162.159.158.121:443 [VLESS]", server: 162.159.158.121, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
   - {name: "سرویس رایگان نوا @irnova 162.159.205.119:443 [VLESS]", server: 162.159.205.119, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.111.97:443 [VLESS]", server: 104.16.111.97, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.50.15:443 [VLESS]", server: 104.18.50.15, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.154.184:443 [VLESS]", server: 104.19.154.184, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 141.101.113.49:443 [VLESS]", server: 141.101.113.49, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.166.221:443 [VLESS]", server: 104.17.166.221, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.204.36:443 [VLESS]", server: 104.18.204.36, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.128.201:443 [VLESS]", server: 104.17.128.201, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.11.105:443 [VLESS]", server: 104.17.11.105, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.233.141:443 [VLESS]", server: 104.17.233.141, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.171.198:443 [VLESS]", server: 104.17.171.198, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.38.0:443 [VLESS]", server: 104.18.38.0, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.236.197:443 [VLESS]", server: 104.17.236.197, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.66.153.56:443 [VLESS]", server: 172.66.153.56, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.130.233:443 [VLESS]", server: 104.19.130.233, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.20.27.216:443 [VLESS]", server: 104.20.27.216, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.25.246.141:443 [VLESS]", server: 104.25.246.141, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.251.189:443 [VLESS]", server: 104.16.251.189, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.25.125.101:443 [VLESS]", server: 104.25.125.101, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.67.67.9:443 [VLESS]", server: 172.67.67.9, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.66.43.41:443 [VLESS]", server: 172.66.43.41, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.25.222.38:443 [VLESS]", server: 104.25.222.38, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.36.128:443 [VLESS]", server: 104.19.36.128, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.112.18:443 [VLESS]", server: 104.18.112.18, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.24.205.97:443 [VLESS]", server: 104.24.205.97, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.93.192:443 [VLESS]", server: 104.18.93.192, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.239.83:443 [VLESS]", server: 104.16.239.83, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.233.245:443 [VLESS]", server: 104.18.233.245, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.119.214:443 [VLESS]", server: 104.17.119.214, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.145.26:443 [VLESS]", server: 104.18.145.26, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.155.218:443 [VLESS]", server: 104.19.155.218, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.180.96:443 [VLESS]", server: 104.19.180.96, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.20.50.121:443 [VLESS]", server: 104.20.50.121, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.32.196:443 [VLESS]", server: 162.159.32.196, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.148.1:443 [VLESS]", server: 104.17.148.1, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.61.79:443 [VLESS]", server: 104.17.61.79, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.187.92:443 [VLESS]", server: 104.16.187.92, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.144.8:443 [VLESS]", server: 104.16.144.8, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.186.98:443 [VLESS]", server: 104.19.186.98, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.22.130:443 [VLESS]", server: 104.18.22.130, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.247.149:443 [VLESS]", server: 104.17.247.149, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.119.86:443 [VLESS]", server: 104.17.119.86, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.112.171:443 [VLESS]", server: 104.16.112.171, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.26.213:443 [VLESS]", server: 104.19.26.213, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.175.53:443 [VLESS]", server: 104.17.175.53, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.52.2:443 [VLESS]", server: 104.19.52.2, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.150.172:443 [VLESS]", server: 104.18.150.172, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.48.64:443 [VLESS]", server: 104.19.48.64, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.74.148:443 [VLESS]", server: 104.17.74.148, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.112.169:443 [VLESS]", server: 104.18.112.169, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.218.37:443 [VLESS]", server: 104.16.218.37, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.23.125:443 [VLESS]", server: 104.16.23.125, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.66.46.197:443 [VLESS]", server: 172.66.46.197, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.84.185:443 [VLESS]", server: 104.19.84.185, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.238.112:443 [VLESS]", server: 104.16.238.112, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.210.155:443 [VLESS]", server: 104.16.210.155, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.244.129:443 [VLESS]", server: 104.18.244.129, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.58.64:443 [VLESS]", server: 162.159.58.64, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.247.20:443 [VLESS]", server: 104.16.247.20, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.64.149.63:443 [VLESS]", server: 172.64.149.63, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.35.104:443 [VLESS]", server: 104.16.35.104, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.63.177:443 [VLESS]", server: 104.18.63.177, port: 443, type: vless, uuid: 00a1185f-2c41-4479-8c06-0b8b3a97638b, tls: true, skip-cert-verify: false, servername: me.meaw.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: me.meaw.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -397,6 +458,67 @@ proxy-groups:
       - سرویس رایگان نوا @irnova 172.64.184.109:443 [VLESS]
       - سرویس رایگان نوا @irnova 162.159.158.121:443 [VLESS]
       - سرویس رایگان نوا @irnova 162.159.205.119:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.111.97:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.50.15:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.154.184:443 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.49:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.166.221:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.204.36:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.128.201:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.11.105:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.233.141:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.171.198:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.38.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.236.197:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.153.56:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.130.233:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.27.216:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.246.141:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.251.189:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.125.101:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.67.9:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.43.41:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.222.38:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.36.128:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.112.18:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.24.205.97:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.93.192:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.239.83:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.233.245:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.119.214:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.145.26:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.155.218:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.180.96:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.50.121:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.196:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.148.1:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.61.79:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.187.92:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.144.8:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.186.98:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.22.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.247.149:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.119.86:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.112.171:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.26.213:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.175.53:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.52.2:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.150.172:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.48.64:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.74.148:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.112.169:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.218.37:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.23.125:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.46.197:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.84.185:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.238.112:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.210.155:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.244.129:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.58.64:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.247.20:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.149.63:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.35.104:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.63.177:443 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -575,6 +697,67 @@ proxy-groups:
       - سرویس رایگان نوا @irnova 172.64.184.109:443 [VLESS]
       - سرویس رایگان نوا @irnova 162.159.158.121:443 [VLESS]
       - سرویس رایگان نوا @irnova 162.159.205.119:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.111.97:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.50.15:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.154.184:443 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.49:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.166.221:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.204.36:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.128.201:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.11.105:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.233.141:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.171.198:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.38.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.236.197:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.153.56:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.130.233:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.27.216:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.246.141:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.251.189:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.125.101:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.67.9:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.43.41:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.222.38:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.36.128:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.112.18:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.24.205.97:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.93.192:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.239.83:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.233.245:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.119.214:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.145.26:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.155.218:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.180.96:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.50.121:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.196:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.148.1:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.61.79:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.187.92:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.144.8:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.186.98:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.22.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.247.149:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.119.86:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.112.171:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.26.213:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.175.53:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.52.2:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.150.172:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.48.64:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.74.148:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.112.169:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.218.37:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.23.125:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.46.197:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.84.185:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.238.112:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.210.155:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.244.129:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.58.64:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.247.20:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.149.63:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.35.104:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.63.177:443 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -752,6 +935,67 @@ proxy-groups:
       - سرویس رایگان نوا @irnova 172.64.184.109:443 [VLESS]
       - سرویس رایگان نوا @irnova 162.159.158.121:443 [VLESS]
       - سرویس رایگان نوا @irnova 162.159.205.119:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.111.97:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.50.15:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.154.184:443 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.49:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.166.221:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.204.36:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.128.201:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.11.105:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.233.141:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.171.198:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.38.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.236.197:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.153.56:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.130.233:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.27.216:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.246.141:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.251.189:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.125.101:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.67.9:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.43.41:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.222.38:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.36.128:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.112.18:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.24.205.97:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.93.192:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.239.83:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.233.245:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.119.214:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.145.26:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.155.218:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.180.96:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.50.121:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.196:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.148.1:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.61.79:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.187.92:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.144.8:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.186.98:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.22.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.247.149:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.119.86:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.112.171:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.26.213:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.175.53:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.52.2:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.150.172:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.48.64:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.74.148:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.112.169:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.218.37:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.23.125:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.46.197:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.84.185:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.238.112:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.210.155:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.244.129:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.58.64:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.247.20:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.149.63:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.35.104:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.63.177:443 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -930,6 +1174,67 @@ proxy-groups:
       - سرویس رایگان نوا @irnova 172.64.184.109:443 [VLESS]
       - سرویس رایگان نوا @irnova 162.159.158.121:443 [VLESS]
       - سرویس رایگان نوا @irnova 162.159.205.119:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.111.97:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.50.15:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.154.184:443 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.49:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.166.221:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.204.36:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.128.201:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.11.105:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.233.141:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.171.198:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.38.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.236.197:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.153.56:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.130.233:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.27.216:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.246.141:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.251.189:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.125.101:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.67.9:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.43.41:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.222.38:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.36.128:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.112.18:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.24.205.97:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.93.192:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.239.83:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.233.245:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.119.214:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.145.26:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.155.218:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.180.96:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.50.121:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.196:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.148.1:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.61.79:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.187.92:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.144.8:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.186.98:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.22.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.247.149:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.119.86:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.112.171:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.26.213:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.175.53:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.52.2:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.150.172:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.48.64:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.74.148:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.112.169:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.218.37:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.23.125:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.46.197:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.84.185:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.238.112:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.210.155:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.244.129:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.58.64:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.247.20:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.149.63:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.35.104:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.63.177:443 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1127,6 +1432,67 @@ proxy-groups:
       - سرویس رایگان نوا @irnova 172.64.184.109:443 [VLESS]
       - سرویس رایگان نوا @irnova 162.159.158.121:443 [VLESS]
       - سرویس رایگان نوا @irnova 162.159.205.119:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.111.97:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.50.15:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.154.184:443 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.49:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.166.221:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.204.36:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.128.201:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.11.105:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.233.141:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.171.198:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.38.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.236.197:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.153.56:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.130.233:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.27.216:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.246.141:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.251.189:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.125.101:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.67.9:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.43.41:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.222.38:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.36.128:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.112.18:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.24.205.97:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.93.192:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.239.83:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.233.245:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.119.214:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.145.26:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.155.218:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.180.96:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.50.121:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.196:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.148.1:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.61.79:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.187.92:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.144.8:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.186.98:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.22.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.247.149:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.119.86:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.112.171:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.26.213:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.175.53:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.52.2:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.150.172:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.48.64:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.74.148:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.112.169:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.218.37:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.23.125:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.46.197:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.84.185:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.238.112:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.210.155:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.244.129:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.58.64:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.247.20:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.149.63:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.35.104:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.63.177:443 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -1310,6 +1676,67 @@ proxy-groups:
       - سرویس رایگان نوا @irnova 172.64.184.109:443 [VLESS]
       - سرویس رایگان نوا @irnova 162.159.158.121:443 [VLESS]
       - سرویس رایگان نوا @irnova 162.159.205.119:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.111.97:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.50.15:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.154.184:443 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.49:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.166.221:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.204.36:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.128.201:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.11.105:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.233.141:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.171.198:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.38.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.236.197:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.153.56:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.130.233:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.27.216:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.246.141:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.251.189:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.125.101:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.67.9:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.43.41:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.25.222.38:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.36.128:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.112.18:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.24.205.97:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.93.192:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.239.83:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.233.245:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.119.214:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.145.26:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.155.218:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.180.96:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.50.121:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.32.196:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.148.1:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.61.79:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.187.92:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.144.8:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.186.98:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.22.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.247.149:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.119.86:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.112.171:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.26.213:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.175.53:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.52.2:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.150.172:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.48.64:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.74.148:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.112.169:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.218.37:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.23.125:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.46.197:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.84.185:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.238.112:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.210.155:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.244.129:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.58.64:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.247.20:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.149.63:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.35.104:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.63.177:443 [VLESS]
 rules:
 # IRANIAN DIRECT RULES
   - DOMAIN-SUFFIX,ir,DIRECT
@@ -10390,7 +10817,6 @@ rules:
   - IP-CIDR,31.12.75.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,31.43.179.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,44.31.142.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,45.8.211.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,45.12.30.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,45.80.108.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,45.80.110.0/23,☁️ CloudFlareCDN,no-resolve
@@ -10447,7 +10873,6 @@ rules:
   - IP-CIDR,93.115.102.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,94.140.0.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,94.247.142.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,102.177.176.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,102.177.189.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,103.11.212.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,103.11.214.0/24,☁️ CloudFlareCDN,no-resolve
@@ -10560,7 +10985,6 @@ rules:
   - IP-CIDR,194.36.49.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,194.36.55.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,194.39.112.0/21,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,194.53.53.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,194.113.223.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,194.152.44.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,194.169.194.0/24,☁️ CloudFlareCDN,no-resolve
@@ -10612,7 +11036,6 @@ rules:
   - IP-CIDR,209.46.30.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,209.222.114.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,212.239.86.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,213.182.199.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,213.241.198.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,216.120.131.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,216.120.180.0/23,☁️ CloudFlareCDN,no-resolve
@@ -10624,6 +11047,7 @@ rules:
   - IP-CIDR,1.0.0.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,1.1.1.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,5.10.214.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,5.83.149.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,5.226.183.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,5.252.81.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.6.112.0/24,☁️ CloudFlareCDN,no-resolve
@@ -10657,6 +11081,7 @@ rules:
   - IP-CIDR,23.227.60.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,31.56.192.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,31.185.108.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,37.72.109.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,37.153.170.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,38.96.28.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,42.61.47.0/24,☁️ CloudFlareCDN,no-resolve
@@ -10721,23 +11146,21 @@ rules:
   - IP-CIDR,82.47.124.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,82.139.216.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,82.152.216.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,87.84.129.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,87.232.75.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,87.232.80.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,87.232.113.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,88.216.69.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,89.46.251.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,89.106.90.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,91.206.71.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,91.213.221.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,91.224.186.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,91.234.202.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,92.44.1.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,94.118.42.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,94.156.10.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,94.177.26.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,94.194.72.0/21,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,94.194.152.0/21,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,94.194.208.0/21,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,94.194.228.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,94.194.232.0/21,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,96.43.100.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,98.98.234.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,103.21.244.0/24,☁️ CloudFlareCDN,no-resolve
@@ -10815,15 +11238,19 @@ rules:
   - IP-CIDR,104.22.172.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.174.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.176.0/21,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.22.186.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.22.190.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.22.192.0/22,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.22.196.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.22.184.0/22,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.22.190.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.22.193.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.22.194.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.22.196.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.22.198.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.22.202.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.204.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.22.210.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.216.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.219.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.220.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.22.222.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.22.224.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.226.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.232.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.160.0/20,☁️ CloudFlareCDN,no-resolve
@@ -10836,13 +11263,9 @@ rules:
   - IP-CIDR,104.23.201.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.202.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.204.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.23.206.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.23.206.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.208.0/20,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.23.224.0/20,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.23.240.0/21,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.23.248.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.23.250.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.23.252.0/22,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.23.224.0/19,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.24.0.0/18,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.24.64.0/19,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.24.128.0/17,☁️ CloudFlareCDN,no-resolve
@@ -10889,6 +11312,7 @@ rules:
   - IP-CIDR,108.162.248.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,108.162.250.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,109.234.211.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,114.141.24.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,122.152.164.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,123.108.75.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,123.253.173.0/24,☁️ CloudFlareCDN,no-resolve
@@ -11361,11 +11785,10 @@ rules:
   - IP-CIDR,172.71.221.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.222.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.224.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,172.71.228.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.232.0/21,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.240.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.242.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,172.71.244.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,172.71.244.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.248.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.71.252.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,173.0.92.0/24,☁️ CloudFlareCDN,no-resolve
@@ -11405,6 +11828,7 @@ rules:
   - IP-CIDR,185.220.20.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,185.229.206.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,185.245.253.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,187.32.204.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,188.42.98.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,188.95.12.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,188.114.96.0/22,☁️ CloudFlareCDN,no-resolve
@@ -11419,6 +11843,7 @@ rules:
   - IP-CIDR,192.86.150.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,192.103.56.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,192.120.41.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,192.250.58.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,193.8.231.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,193.8.237.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,193.118.171.0/24,☁️ CloudFlareCDN,no-resolve
@@ -11435,6 +11860,7 @@ rules:
   - IP-CIDR,194.34.84.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,194.34.88.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,194.34.93.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,194.77.208.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,194.77.235.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,194.152.130.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,195.66.29.0/24,☁️ CloudFlareCDN,no-resolve
@@ -11519,7 +11945,6 @@ rules:
   - IP-CIDR,217.180.16.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,218.33.92.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,222.167.32.0/22,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,222.167.227.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,103.21.246.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.240.0/20,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.0.0/19,☁️ CloudFlareCDN,no-resolve
