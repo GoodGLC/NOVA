@@ -82,8 +82,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova me.meaw.workers.dev:443 [VLESS]",
-      "server": "me.meaw.workers.dev",
+      "tag": "سرویس رایگان نوا @irnova azure-grove-3756.pages.dev:443 [VLESS]",
+      "server": "azure-grove-3756.pages.dev",
       "server_port": 443,
       "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
       "transport": {
@@ -5670,6 +5670,144 @@
       }
     },
     {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.21.87.238:2096 [VLESS]",
+      "server": "104.21.87.238",
+      "server_port": 2096,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "azure-grove-3756.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "azure-grove-3756.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.21.87.238:2053 [VLESS]",
+      "server": "104.21.87.238",
+      "server_port": 2053,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "azure-grove-3756.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "azure-grove-3756.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.21.87.238:2083 [VLESS]",
+      "server": "104.21.87.238",
+      "server_port": 2083,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "azure-grove-3756.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "azure-grove-3756.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.21.87.238:2087 [VLESS]",
+      "server": "104.21.87.238",
+      "server_port": 2087,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "azure-grove-3756.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "azure-grove-3756.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.20.56.170:8443 [VLESS]",
+      "server": "104.20.56.170",
+      "server_port": 8443,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "azure-grove-3756.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "azure-grove-3756.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.21.87.238:8443 [VLESS]",
+      "server": "104.21.87.238",
+      "server_port": 8443,
+      "uuid": "00a1185f-2c41-4479-8c06-0b8b3a97638b",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "azure-grove-3756.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "azure-grove-3756.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
       "type": "selector",
       "tag": "🚀 节点选择",
       "outbounds": [
@@ -5677,7 +5815,7 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "DIRECT",
-        "سرویس رایگان نوا @irnova me.meaw.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova azure-grove-3756.pages.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.157.174:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.186.173:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.58.234:2096 [VLESS]",
@@ -5920,6 +6058,12 @@
         "سرویس رایگان نوا @irnova 104.17.160.57:443 [VLESS]",
         "سرویس رایگان نوا @irnova 172.64.74.155:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.16.141.194:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.20.56.170:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:8443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -5928,7 +6072,7 @@
       "type": "urltest",
       "tag": "♻️ 自动选择",
       "outbounds": [
-        "سرویس رایگان نوا @irnova me.meaw.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova azure-grove-3756.pages.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.157.174:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.186.173:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.58.234:2096 [VLESS]",
@@ -6170,7 +6314,13 @@
         "سرویس رایگان نوا @irnova 104.19.235.35:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.160.57:443 [VLESS]",
         "سرویس رایگان نوا @irnova 172.64.74.155:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.141.194:443 [VLESS]"
+        "سرویس رایگان نوا @irnova 104.16.141.194:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.20.56.170:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:8443 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -6180,7 +6330,7 @@
       "type": "urltest",
       "tag": "🔯 故障转移",
       "outbounds": [
-        "سرویس رایگان نوا @irnova me.meaw.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova azure-grove-3756.pages.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.157.174:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.186.173:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.58.234:2096 [VLESS]",
@@ -6422,14 +6572,20 @@
         "سرویس رایگان نوا @irnova 104.19.235.35:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.160.57:443 [VLESS]",
         "سرویس رایگان نوا @irnova 172.64.74.155:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.141.194:443 [VLESS]"
+        "سرویس رایگان نوا @irnova 104.16.141.194:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.20.56.170:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:8443 [VLESS]"
       ]
     },
     {
       "type": "urltest",
       "tag": "🔮 负载均衡",
       "outbounds": [
-        "سرویس رایگان نوا @irnova me.meaw.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova azure-grove-3756.pages.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.157.174:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.186.173:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.58.234:2096 [VLESS]",
@@ -6671,7 +6827,13 @@
         "سرویس رایگان نوا @irnova 104.19.235.35:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.160.57:443 [VLESS]",
         "سرویس رایگان نوا @irnova 172.64.74.155:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.141.194:443 [VLESS]"
+        "سرویس رایگان نوا @irnova 104.16.141.194:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.20.56.170:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:8443 [VLESS]"
       ]
     },
     {
@@ -6704,7 +6866,7 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا @irnova me.meaw.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova azure-grove-3756.pages.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.157.174:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.186.173:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.58.234:2096 [VLESS]",
@@ -6947,6 +7109,12 @@
         "سرویس رایگان نوا @irnova 104.17.160.57:443 [VLESS]",
         "سرویس رایگان نوا @irnova 172.64.74.155:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.16.141.194:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.20.56.170:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:8443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -6961,7 +7129,7 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا @irnova me.meaw.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova azure-grove-3756.pages.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.157.174:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.186.173:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.58.234:2096 [VLESS]",
@@ -7204,6 +7372,12 @@
         "سرویس رایگان نوا @irnova 104.17.160.57:443 [VLESS]",
         "سرویس رایگان نوا @irnova 172.64.74.155:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.16.141.194:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.20.56.170:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:8443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -7213,7 +7387,7 @@
       "tag": "GLOBAL",
       "outbounds": [
         "DIRECT",
-        "سرویس رایگان نوا @irnova me.meaw.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova azure-grove-3756.pages.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.157.174:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.186.173:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.17.58.234:2096 [VLESS]",
@@ -7456,6 +7630,12 @@
         "سرویس رایگان نوا @irnova 104.17.160.57:443 [VLESS]",
         "سرویس رایگان نوا @irnova 172.64.74.155:443 [VLESS]",
         "سرویس رایگان نوا @irnova 104.16.141.194:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.20.56.170:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.21.87.238:8443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -7494,12 +7674,12 @@
         "type": "ws",
         "path": "/?fake=1",
         "headers": {
-          "Host": "me.meaw.workers.dev"
+          "Host": "azure-grove-3756.pages.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.workers.dev"
+        "server_name": "azure-grove-3756.pages.dev"
       }
     },
     {
@@ -7514,12 +7694,12 @@
         "type": "ws",
         "path": "/?fake=1",
         "headers": {
-          "Host": "me.meaw.workers.dev"
+          "Host": "azure-grove-3756.pages.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "me.meaw.workers.dev"
+        "server_name": "azure-grove-3756.pages.dev"
       }
     }
   ],
